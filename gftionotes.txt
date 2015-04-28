@@ -1,0 +1,9 @@
+fix thick lines on dir listings
+change smart quotes to dumb quotes
+do different colours for different repos
+
+
+.git
+└── objects
+    └── 2e
+        └── 65efe
