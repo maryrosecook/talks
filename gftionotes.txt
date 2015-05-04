@@ -6,3 +6,4 @@ break slides with lots of new info into sequences?
 go through essay and add points I might forget to presenter notes
 tidy up thicker overlapping lines
 check haven't missed any graph property items
+reduce later commits to one slide?
