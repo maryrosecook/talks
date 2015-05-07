@@ -6,3 +6,4 @@ reduce later commits to one slide?
 make graph property slides display the property, then the behaviour on the next slide
 run every command and check every output string
 line up all misaligned slides precisely
+restructure the different types of slide
