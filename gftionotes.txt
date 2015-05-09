@@ -1,5 +1,5 @@
 run every command and check every output string
 redo diagrams to be bigger?
 line up all misaligned slides precisely
-shorten hashes
 add more slides to focus in on each piece of output
+remove all possible data/number.txt full paths
