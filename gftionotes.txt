@@ -1,5 +1,4 @@
 run every command and check every output string
 redo diagrams to be bigger?
 line up all misaligned slides precisely
-add more slides to focus in on each piece of output
-darken grey text
+put commit messages when talking about branches?
